@@ -1,2 +1,2 @@
-# grassroot-recipe-
-Confi: global user.email 
+# grassroot-recipe>
+Confi - global user.email 
