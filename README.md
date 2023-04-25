@@ -1,2 +1,2 @@
-# grassroot-recipe>
+# grassroot-recipes>
 Confi - global user.email 
